@@ -6,10 +6,10 @@ Hosted on GitHub Pages
 You can view the live version of this project hosted on GitHub Pages [here](https://ibrahimakmohamed.github.io/Tea/).
 
 ## Table of Contents
-[1.Project Description](#Project-Description)
-[2.Technologies Used](#Technologies-Used)
-[3.Features](#Features)
-[4.Usage](#Usage)
+- [1.Project Description](#Project-Description(
+- [2.Technologies Used](#Technologies-Used)
+- [3.Features](#Features)
+- [4.Usage](#Usage)
 
 ## Project Description
 This page provides a straightforward guide to making a delicious cup of tea. It includes a list of ingredients and step-by-step preparation instructions, complete with interactive features to enhance the user experience. The goal of this project is to demonstrate basic web development techniques and create an engaging, informative page.
