@@ -7,7 +7,7 @@ You can view the live version of this project hosted on GitHub Pages [here](http
 
 ## Table of Contents
 [1.Project Description](#Project-Description)
-[2.Technologies Used](#)
+[2.Technologies Used](#Technologies-Used)
 [3.Features](#Features)
 [4.Usage](#Usage)
 
