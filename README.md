@@ -15,11 +15,11 @@ You can view the live version of this project hosted on GitHub Pages [here](http
 This page provides a straightforward guide to making a delicious cup of tea. It includes a list of ingredients and step-by-step preparation instructions, complete with interactive features to enhance the user experience. The goal of this project is to demonstrate basic web development techniques and create an engaging, informative page.
 
 ## Technologies Used
-- HTML5: For structuring the content.
-- CSS3: For styling the content.
-- JavaScript: For adding interactivity.
-- Font Awesome: For adding icons.
-- GitHub Pages: For hosting the project online.
+- **HTML5**: For structuring the content.
+- **CSS3**: For styling the content.
+- **JavaScript**: For adding interactivity.
+- **Font Awesome**: For adding icons.
+- **GitHub Pages**: For hosting the project online.
 
 ## Features
 - Header: Contains the title and an image.
