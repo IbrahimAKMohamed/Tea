@@ -1,6 +1,6 @@
 # Tea Recipe Page
 ## Project Overview
-Welcome to my Tea Recipe page! This project is a part of my journey in web development, specifically created during the Five Step Coding Challenge with Code Institute™, for which I received a certificate of completion. This page provides a simple, easy-to-follow recipe for making tea, showcasing my skills in HTML, CSS, and JavaScript. The project is uploaded and hosted on GitHub Pages.
+Welcome to my Tea Recipe page! This project is a part of my journey in web development, specifically created during the **Five Step Coding Challenge** with **Code Institute™**, for which I received a certificate of completion. This page provides a simple, easy-to-follow recipe for making tea, showcasing my skills in HTML, CSS, and JavaScript. The project is uploaded and hosted on GitHub Pages.
 
 Hosted on GitHub Pages
 You can view the live version of this project hosted on GitHub Pages [here](https://ibrahimakmohamed.github.io/Tea/).
